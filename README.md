@@ -40,6 +40,7 @@ The raw text was split into sentences using regex. For each character, sentences
 To better understand the dataset, several analyses were performed:
 
 - **House distribution**: Majority of samples belong to Gryffindor.
+  
 <p align="center">
   <img src="images/1.png" width="500">
 </p>
@@ -55,15 +56,21 @@ To better understand the dataset, several analyses were performed:
     <p align="center">
   <img src="images/2.png" width="500">
 </p>
-- **Word cloud**: Visualizes the most common tokens, dominated by “Harry”.  
+
+- **Word cloud**: Visualizes the most common tokens, dominated by “Harry”.
+  
 <p align="center">
   <img src="images/3.png" width="500">
 </p>
-- **Top 20 most common words**: Shows frequent mentions of main characters.  
+
+- **Top 20 most common words**: Shows frequent mentions of main characters.
+  
 <p align="center">
   <img src="images/4.png" width="500">
 </p>
+
 - **Character–House affiliation plots**: Cross-checking mapping consistency.
+  
 <p align="center">
   <img src="images/5.png" width="500">
 </p>
